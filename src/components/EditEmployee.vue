@@ -8,7 +8,9 @@
 export default {
     name: 'edit-employee',
     data(){
-        
+        return {
+            
+        }
     }
 }
 </script>

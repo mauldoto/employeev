@@ -9,7 +9,9 @@
 export default {
     name: 'view-employee',
     data(){
-        
+        return {
+            
+        }
     }
 }
 </script>
